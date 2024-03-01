@@ -1,20 +1,4 @@
-<h1 align="center">André Sturesson</h1>
-
-<style>
-@keyframes wave {
-  0% { transform: rotate(0deg); }
-  25% { transform: rotate(20deg); }
-  50% { transform: rotate(0deg); }
-  75% { transform: rotate(-20deg); }
-  100% { transform: rotate(0deg); }
-}
-
-h1::after {
-  content: "👋";
-  display: inline-block;
-  animation: wave 2s infinite;
-}
-</style>
+<h1 align="center">👋André Sturesson</h1>
 
 **<h3 align="center">Born a tinkerer</h3>**
 
